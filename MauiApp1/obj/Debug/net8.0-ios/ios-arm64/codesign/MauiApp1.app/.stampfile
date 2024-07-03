@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign F2B8F30DE3D542CCA955E5A5F55A4EC57D538197 --entitlements /Users/vyvojmobil/Desktop/SkiasharpMauiTest/MauiApp1/obj/Debug/net8.0-ios/ios-arm64/Entitlements.xcent /Users/vyvojmobil/Desktop/SkiasharpMauiTest/MauiApp1/bin/Debug/net8.0-ios/ios-arm64/MauiApp1.app

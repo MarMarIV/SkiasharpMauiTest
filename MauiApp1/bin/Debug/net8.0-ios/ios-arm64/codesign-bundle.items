@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="MauiApp1.app">
+      <CodesignSigningKey>F2B8F30DE3D542CCA955E5A5F55A4EC57D538197</CodesignSigningKey>
+      <CodesignEntitlements>/Users/vyvojmobil/Desktop/SkiasharpMauiTest/MauiApp1/obj/Debug/net8.0-ios/ios-arm64/Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>/Users/vyvojmobil/Desktop/SkiasharpMauiTest/MauiApp1</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>
