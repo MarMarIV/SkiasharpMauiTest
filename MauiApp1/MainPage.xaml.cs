@@ -18,7 +18,7 @@ public partial class MainPage : ContentPage
 
     private void OnTouch(object? sender, SKTouchEventArgs e)
     {
-        e.Handled = true;
+        e.Handled = false;
     }
 
     private void OnPaintSurface(object? sender, SKPaintSurfaceEventArgs e)
